@@ -3,7 +3,7 @@
 Bienvenidos a
 # Programación con objetos I
 Hola! Mi nombre es **Gastón Arevalo**. Soy estudiante de la UNAHUR y Guitarrista.
-Estoy viviendo actualmente en Hurlingham y este es mi tercer de la carrera.
+Estoy viviendo actualmente en Hurlingham y este es mi tercer año de la carrera.
 
 
 ## Links importantes :monocle_face:
@@ -17,14 +17,14 @@ Estoy viviendo actualmente en Hurlingham y este es mi tercer de la carrera.
 * [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 * [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
 
-### Presentacion Personal
+### Más sobre mi 
 
-Me llamo ...
+Mi nombre completo es Gastón Ezequiel Arevalo 
 
-Me gusta ...
+Me gusta La música y la programación 
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo de Actual mente trabajo como músico.
 
-Les dejo una imagen mía 
+Les dejo una de mis herramientas de trabajo para la cursada.
 
-![subir archivo de imagen](imagen.jpg)
+![subir archivo de imagen](./assets/hermientas.jpeg)
