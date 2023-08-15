@@ -1,8 +1,8 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/mmiFoto.jpg)
 
 Bienvenidos a
 # Programación con objetos I
-
+Hola! Mi nombre es Gastón Arevalo. Soy estudiante de la UNAHUR y Guitarrista
 En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
 Para ello usaremos como herramienta el lenguaje Wollok.
 
